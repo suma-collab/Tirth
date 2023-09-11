@@ -1,0 +1,40 @@
+.plannerSectionMainDiv{
+    background-color: #FFF0E9;
+    height: 777px;
+    background-image: url("../../../public/images/Temples1.png");
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: 100% 100%;
+    text-align: center;
+    padding-top: 4.8rem;
+}
+.plannerSectionMainDiv h2{
+    font-size: 4rem;
+    font-family: Roboto;
+    padding-bottom: 1.06rem;
+}
+.plannerSectionMainDiv h4{
+    font-family: Roboto;
+    font-size: 1.625rem;
+    color: #E14503;
+    padding-bottom: 1rem;
+}
+.plannerSectionMainDiv p{
+    font-family: Nunito;
+    width: 592px;
+    margin: auto;
+    font-size: 1rem;
+    padding-bottom: 4.125rem;
+}
+
+.plannerSectionMainDiv button{
+    border-radius: 15px;
+    background: #E14503;
+    box-shadow: 0px 4px 32px 0px rgba(225, 69, 3, 0.25);
+    border: none;
+    font-family: Roboto;
+    padding: 15px 33px;
+}
+.plannerSectionMainDiv button>svg{
+    margin-left: 6px;
+}

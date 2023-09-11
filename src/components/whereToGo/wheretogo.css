@@ -1,0 +1,15 @@
+.whereToGoMainDiv{
+    /* width: 1440px; */
+    height: 420px;
+    background-image: url("../../../public/images/wheretogo.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.mb-3{
+    width: 50%;
+    height: 4.43rem;
+}

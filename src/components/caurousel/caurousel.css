@@ -1,0 +1,33 @@
+.carousel .carousel-indicators button {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
+
+.carousel .carousel-control-next-icon.changed {
+    background-image: url("./arrow-right-solid.svg");
+}
+
+.carouselDiv{
+    width: 21.5rem !important;
+    height: 23.37rem;
+    background-image: url(../../../public//images//carousel/stories3.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-right: 1rem;
+    position: relative;
+} 
+.carouselSubDiv{
+    color: #fff;
+    position: absolute;
+    bottom: 0px;
+}
+.slick-prev:before, .slick-next:before{
+    content: url(./SlidebuttonRight.png) !important;
+}
+.slick-prev {
+    left:-40px !important;
+}
+.buttonCompo{
+    margin-top: 2rem;
+}

@@ -1,0 +1,40 @@
+.headings button{
+    border-radius: 15px;
+    background: #E14503;
+    box-shadow: 0px 4px 32px 0px rgba(225, 69, 3, 0.25);
+    border: none;
+    font-family: Roboto;
+    padding: 15px 33px;
+    width: 50%;
+}
+.headings button>svg{
+    margin-left: 6px;
+}
+
+.headings{
+    font-weight: 700;
+    font-family: Roboto;
+    text-align: start;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.headings h4{
+    color: #E14503;
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
+.headings h3{
+    font-size: 2.5rem;
+    margin-bottom: 1.8rem;
+}
+.aboutDescription{
+    font-size: 1.125rem;
+    font-family: Nunito;
+    text-align: justify;
+    font-weight: 400 !important;
+}
+.imageDiv img{
+  height: 100%;
+  width: 100%;
+}

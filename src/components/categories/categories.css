@@ -1,0 +1,21 @@
+.categoriesMainDiv{
+    width: 110.58192443847656px;
+    height: 105.77400970458984px;
+    border-radius: 9.615818977355957px;
+    border: .5px solid #505050;
+    padding: .5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
+.tittle{
+    font-family: Roboto;
+    font-size: 0.95rem;
+    margin-bottom: 0px;
+    /* float: left; */
+}
+
+.categoriesMainDiv img{
+ padding: 1rem 0rem;
+ /* float: left; */
+}

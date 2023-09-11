@@ -1,0 +1,25 @@
+.mainRow{
+    text-align: center;
+    padding: 2rem;
+}
+.mainHeadingDiv{
+    padding-bottom: 4rem;
+}
+.mainHeading{
+    font-family: Roboto;
+    font-size: 4.125rem;
+}
+.mainHeading span{
+        color: #E14503;
+}
+.description p{
+    font-family: Nunito;
+    font-size: 1.25rem;
+    margin-bottom: 0px;
+    text-align: center;
+}
+.categories{
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+}

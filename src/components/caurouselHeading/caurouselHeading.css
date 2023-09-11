@@ -1,0 +1,27 @@
+.caurouselHeadingMainDiv{
+    padding: 5rem;
+}
+.headings{
+    font-weight: 700;
+    font-family: Roboto;
+    text-align: start;
+}
+.headings h4{
+    color: #E14503;
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
+.headings h3{
+    font-size: 2.5rem;
+}
+.description{
+    font-size: 1.125rem;
+    font-family: Nunito;
+    text-align: justify;
+}
+.description span{
+    color: #E14503;
+}
+.caurouselHeadingMainDivbg{
+    background-color: #FFF0E9;
+}
